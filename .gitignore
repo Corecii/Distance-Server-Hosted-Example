@@ -1,0 +1,11 @@
+
+**/.vscode
+
+/cat-server.sh
+/login.sh
+/push.sh
+/remote.sh
+/update.sh
+
+**/Distance.dll
+/docker-distance-server/server/

@@ -1,0 +1,11 @@
+{
+	"SkipThreshold": 0.51,
+	"ExtendThreshold": 0.51,
+	"SoftBlocklistThreshold": 0.51,
+	"RecentMapsSoftBlocklistRoundCount": 5,
+	"ExtendTime": 120.0,
+	"SoftBlocklist": [],
+	"HardBlocklist": [],
+	"SoftBlocklistDifficulties": [],
+	"RequiredTags": ["Sprint"]
+}

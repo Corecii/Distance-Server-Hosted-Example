@@ -1,0 +1,71 @@
+{
+	"ServerName": "Workshop Mix Unofficial",
+	"MasterServerGameModeOverride": "Sprint Auto",
+	"Port": 45671,
+	"UseNat": true,
+	"LoadWorkshopLevels": true,
+	"ReportToMasterServer": true,
+	"MasterServerReRegisterFrequency": 30000000.0,
+	"IdleTimeout": 60.0,
+	"LevelTimeout": 345.0,
+	"MaxPlayers":36,
+	"WelcomeMessage": "Press [00FF00]C[-] to chat.\nChat [00FFFF]/vote Level Name[-] to vote.\nChat [00FFFF]/skip[-] to vote skip.",
+	"TipMessages": [
+		"[00FF00]Tip:[-] Press [00FF00]C[-] to chat; Chat [00FFFF]/help[-] to use commands",
+		"[00FF00]Tip:[-] Vote for any level on the workshop using [00FFFF]/vote Level Name[-]",
+		"[00FF00]Tip:[-] Vote against bad levels using [00FFFF]/not Level Name[-]",
+		"[00FF00]Tip:[-] Filter by a specific author using [00FFFF]/vote Level by Author[-]",
+		"[00FF00]Tip:[-] Restart at any time with [00FFFF]/restart[-], including on the results screen",
+		"[00FF00]Tip:[-] The server only waits for players who were in the server when the level started",
+		"[00FF00]Tip:[-] Use [00FFFF]/extend[-] to extend the level time; this requires at least 50% of the server",
+		"[00FF00]Tip:[-] Search for levels before voting with [00FFFF]/search Level[-]",
+		"[00FF00]Tip:[-] Press [00FF00]C[-] to chat; Chat [00FFFF]/help[-] to use commands",
+		"[00FF00]Tip:[-] Clear your level vote at any time using [00FFFF]/clear[-]",
+		"[00FF00]Tip:[-] Using [00FFFF]/skip[-], [00FFFF]/extend[-], or [00FFFF]/not level[-] a second time will undo your existing vote",
+		"[00FF00]Tip:[-] Voted levels are chosen by weighted random: more votes makes a level more likely, but never for sure!",
+		"[00FF00]Tip:[-] [00FFFF]/vote[-] and [00FFFF]/not[-] votes last up to 5 minutes after you leave; don't worry about revoting if you rejoin!",
+		"[00FF00]Tip:[-] Don't worry about going AFK: the server sets you to spectate mode after 1 minute of inactivity"
+	],
+	"Workshop":[
+		{
+			"Search":"",
+			"SearchType":"GameFiles",
+			"Sort":"Popular",
+			"Days":30,
+			"Tags":["Sprint"],
+			"Count":10
+		},
+		{
+			"Search":"",
+			"SearchType":"GameFiles",
+			"Sort":"Popular",
+			"Days":360,
+			"Tags":["Sprint"],
+			"Count":30
+		},
+		{
+			"Search":"",
+			"SearchType":"GameFiles",
+			"Sort":"Subscribed",
+			"Days":-1,
+			"Tags":["Sprint"],
+			"Count":100
+		},
+		{
+			"Search":"",
+			"SearchType":"GameFiles",
+			"Sort":"Popular",
+			"Days":-1,
+			"Tags":["Sprint"],
+			"Count":100
+		},
+		{
+			"Search":"",
+			"SearchType":"GameFiles",
+			"Sort":"Recent",
+			"Days":-1,
+			"Tags":["Sprint"],
+			"Count":6
+		}
+	]
+}
