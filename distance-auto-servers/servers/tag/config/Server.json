@@ -1,0 +1,12 @@
+{
+	"Plugins":[
+		"/distance-auto-servers/server/Plugins/HtmlAgilityPack.dll",
+		"/distance-auto-servers/server/Plugins/0WorkshopSearch.dll",
+		"/distance-auto-servers/server/Plugins/BasicAutoServer.dll",
+		"/distance-auto-servers/server/Plugins/VoteCommands.dll",
+		"/distance-auto-servers/server/Plugins/Vanilla.dll",
+		"/distance-auto-servers/server/Plugins/HttpInfoServer.dll",
+		"/distance-auto-servers/server/Plugins/ChatFilter.dll",
+		"/distance-auto-servers/server/Plugins/ServerListTools.dll"
+	]
+}

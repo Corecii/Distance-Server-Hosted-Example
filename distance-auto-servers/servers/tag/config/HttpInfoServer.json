@@ -1,0 +1,7 @@
+{
+	"Port": 45692,
+	"PortHttps": -1,
+	"PublicMode": true,
+	"PrivateModeIps": ["127.0.0.1"],
+	"PrivateModeTokens": ["330d40e4527c46c7935a7e057ef918f0"]
+}

@@ -8,4 +8,12 @@
 /update.sh
 
 **/Distance.dll
-/docker-distance-server/server/
+/distance-auto-servers/server/DistanceServer_Data
+/distance-auto-servers/server/Plugins
+/distance-auto-servers/server/DistanceServer.x86_64
+/distance-auto-servers/server/DistanceServerBaseExternal.dll
+
+**/node_modules
+
+**/service-runner.log
+**/Server.log

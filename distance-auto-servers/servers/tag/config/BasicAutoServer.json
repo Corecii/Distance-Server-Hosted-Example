@@ -1,0 +1,100 @@
+{
+	"ServerName": "Tag Auto Unofficial",
+	"MasterServerGameModeOverride": "Reverse Tag",
+	"PrivateServerPassword_": "a",
+	"Port": 45691,
+	"UseNat": false,
+	"LoadWorkshopLevels": false,
+	"ReportToMasterServer": true,
+	"ReportToMasterServerAsDedicatedServer": true,
+	"MasterServerReRegisterFrequency": 30000000.0,
+	"GameMode": "Reverse Tag",
+	"IdleTimeout": -1.0,
+	"LevelTimeout": 345.0,
+	"ReverseTagLevelTimeout": 900.0,
+	"ReverseTagWinTime": 180.0,
+	"MaxPlayers":12,
+	"WelcomeMessage": "[FF0000]Reverse Tag Auto is [b]Unofficial[/b] and is a [b]work-in-progress[/b]!\nExpect bugs![-]\nPress [00FF00]C[-] to chat.\n",
+	"TipMessages": [
+		"[00FF00]Tip:[-] Press [00FF00]C[-] to chat; Chat [00FFFF]/help[-] to use commands",
+		"[FF0000]Reverse Tag Auto is [b]Unofficial[/b] and is a [b]work-in-progress[/b]!"
+	],
+	"Levels":[
+		{
+			"Name":"Atrium",
+			"RelativeLevelPath":"OfficialLevels/Atrium.bytes",
+			"WorkshopFileId":"",
+			"GameMode":"Reverse Tag"
+		},
+		{
+			"Name":"Phantom",
+			"RelativeLevelPath":"OfficialLevels/Phantom.bytes",
+			"WorkshopFileId":"",
+			"GameMode":"Reverse Tag"
+		},
+		{
+			"Name":"Stuntware 2051",
+			"RelativeLevelPath":"OfficialLevels/Stuntware 2051.bytes",
+			"WorkshopFileId":"",
+			"GameMode":"Reverse Tag"
+		},
+		{
+			"Name":"Stratum",
+			"RelativeLevelPath":"OfficialLevels/Stratum.bytes",
+			"WorkshopFileId":"",
+			"GameMode":"Reverse Tag"
+		},
+		{
+			"Name":"Tagtastic",
+			"RelativeLevelPath":"OfficialLevels/Tagtastic.bytes",
+			"WorkshopFileId":"",
+			"GameMode":"Reverse Tag"
+		},
+		{
+			"Name":"Spooky Town",
+			"RelativeLevelPath":"OfficialLevels/Spooky Town.bytes",
+			"WorkshopFileId":"",
+			"GameMode":"Reverse Tag"
+		},
+		{
+			"Name":"Syncopation",
+			"RelativeLevelPath":"OfficialLevels/Syncopation.bytes",
+			"WorkshopFileId":"",
+			"GameMode":"Reverse Tag"
+		},
+		{
+			"Name":"Fleeting Images",
+			"RelativeLevelPath":"OfficialLevels/Fleeting Images.bytes",
+			"WorkshopFileId":"",
+			"GameMode":"Reverse Tag"
+		},
+		{
+			"Name":"Canopy",
+			"RelativeLevelPath":"OfficialLevels/Canopy.bytes",
+			"WorkshopFileId":"",
+			"GameMode":"Reverse Tag"
+		},
+		{
+			"Name":"Jingle Valley",
+			"RelativeLevelPath":"OfficialLevels/Jingle Valley.bytes",
+			"WorkshopFileId":"",
+			"GameMode":"Reverse Tag"
+		},
+		{
+			"Name":"Refraction",
+			"RelativeLevelPath":"OfficialLevels/Refraction.bytes",
+			"WorkshopFileId":"",
+			"GameMode":"Reverse Tag"
+		}
+	],
+	"Workshop":[
+		{
+			"Search":"",
+			"SearchType":"GameFiles",
+			"Sort":"Popular",
+			"Days":-1,
+			"Tags":["Reverse+Tag"],
+			"Count":60
+		}
+	]
+}
